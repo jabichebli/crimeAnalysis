@@ -19,22 +19,15 @@ This analysis includes several types of data exploration:
 
 1. **Descriptive Statistics** - Summarizing key metrics like crime frequency, averages, and distributions.
 2. **Time Series Analysis** - Examining crime trends over time to detect patterns or seasonality.
-3. **Geospatial Analysis** - Mapping crime hotspots to visualize high-crime areas.
-4. **Correlation Analysis** - Identifying relationships between different crime categories and demographic factors.
-5. **Predictive Modeling** - Using regression and machine learning models to predict crime occurrences based on historical data.
+3. **Correlation Analysis** - Identifying relationships between different crime categories and demographic factors.
 
 ## Specific Data Analysis Techniques
 <div style="text-align: justify;"> 
 In this analysis, various technical data analysis techniques and visualizations were employed to understand the relationships between crime types, locations, and other influencing factors. Below is a list of the specific techniques and charts used:</div>
 
 - **Data Cleaning & Preprocessing** - Handling missing values, standardizing formats, and filtering anomalies.
-- **Histograms & Density Plots** - Understanding the distribution of crime occurrences.
-- **Heatmaps** - Visualizing correlation matrices to highlight relationships between crime variables.
-- **Box Plots** - Identifying outliers and variations in crime incidents.
-- **Scatter Plots** - Exploring relationships between crime rates and socioeconomic indicators.
-- **Regression Analysis** - Investigating predictive relationships between variables.
-- **K-Means Clustering** - Grouping crime locations to identify common patterns.
-- **Choropleth Maps** - Displaying geographic distributions of crime density.
+- **Histograms** - Understanding the distribution of crime occurrences.
+- **Times Series Plots** - Understanding the different categories of crime over time.
 
 ## Feedback
 If you have any feedback, suggestions, or questions about the data analysis, feel free to [contact me](https://jabichebli.github.io/jabichebli/contact.html). Your input is valuable and will help improve the analysis.
